@@ -19,8 +19,8 @@ To write a program to implement the simple linear regression model for predictin
 ```
 /*
 Program to implement the simple linear regression model for predicting the marks scored.
-Developed by: R. Hemapriya
-RegisterNumber:  21221230036
+Developed by: Sucharithachowdary
+RegisterNumber:  21221240021
 */
 
 import numpy as np
